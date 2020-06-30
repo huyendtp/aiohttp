@@ -1,0 +1,7 @@
+aiohttp
+pyyaml
+sqlalchemy
+aiopg[sa]
+pymysql
+aiomysql
+aiohttp_jinja2
